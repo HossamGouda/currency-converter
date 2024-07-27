@@ -24,6 +24,19 @@ This project uses the following dependencies:
 
 - [Bootstrap](https://getbootstrap.com/) - A popular CSS framework for building responsive and mobile-first websites.
 
+## Resources for Further Reading
+
+1. [MDN Web Docs - DocumentFragment](https://developer.mozilla.org/en-US/docs/Web/API/DocumentFragment)  
+   A comprehensive overview of `DocumentFragment`, including its properties and methods.
+
+2. [JavaScript.info - DOM Nodes](https://javascript.info/dom-nodes)  
+   An in-depth exploration of various DOM nodes, including examples of creating and manipulating them efficiently.
+
+3. [MDN Web Docs - Performance Tips](https://developer.mozilla.org/en-US/docs/Web/Performance/Performance_tips#minimize_dom_manipulation)  
+   Guidelines on improving performance when manipulating the DOM, including the use of `DocumentFragment`.
+
+4. [CSS-Tricks - Understanding Reflow and Repaint](https://css-tricks.com/reflow-repaint/)
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
